@@ -2,7 +2,7 @@
 <img src="https://lh3.googleusercontent.com/-CDid7LgrH-M/YNn460wKUMI/AAAAAAAAFdY/ttAl_XT055QzWO9bEWKPbzWBPzhPUg1UwCLcBGAsYHQ/s16000/asirem.png" alt="asirem_logo">
 <h1 align=center>Asirem Admin</h1>
 <p align=center>
-<img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"> <a href="https://packagist.org/packages/ecnu-im/asirem-admin"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/ecnu-im/asirem-admin.svg?style=flat-square"></a> <a href="https://packagist.org/packages/ecnu-im/asirem-admin"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/ecnu-im/asirem-admin.svg?style=flat-square"></a> <a href="https://www.buymeacoffee.com/sycho"><img alt="donate" src="https://img.shields.io/badge/donate-buy%20me%20a%20coffee-%23ffde39?style=flat-square"></a>
+<img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"> <a href="https://packagist.org/packages/ecnu-im/asirem-admin"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/ecnu-im/asirem-admin.svg?style=flat-square"></a> <a href="https://packagist.org/packages/ecnu-im/asirem-admin"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/ecnu-im/asirem-admin.svg?style=flat-square"></a> <a href="https://www.buymeacoffee.com/sycho"><img alt="donate" src="https://img.shields.io/badge/donate-to%20original%20theme%20author-%23ffde39?style=flat-square"></a>
 </p><p align=center>
 The admin panel of <a href="https://github.com/afrux/asirem">afrux/asirem</a>.
 </p><p align=center>
@@ -34,4 +34,4 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/ecnu-im/asirem-admin)
 - [GitHub](https://github.com/ECNU-Forum/asirem-admin)
-- [Discuss](https://discuss.flarum.org/d/27939-asirem-theme)
+- [Discuss (Original Theme)](https://discuss.flarum.org/d/27939-asirem-theme)
