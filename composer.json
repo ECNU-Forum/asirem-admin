@@ -1,6 +1,6 @@
 {
-  "name": "afrux/asirem",
-  "description": "The weird Flarum theme made with potatoes as fuel, by Afrux.",
+  "name": "ecnu-im/asirem-admin",
+  "description": "The admin panel of afrux/asirem",
   "keywords": [
     "flarum"
   ],
